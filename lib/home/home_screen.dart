@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:luminous/light_status_screen.dart';
+import 'package:luminous/home/light_status_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

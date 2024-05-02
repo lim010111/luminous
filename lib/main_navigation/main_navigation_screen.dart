@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:luminous/health_screen.dart';
-import 'package:luminous/notification_screen.dart';
-import 'package:luminous/home_screen.dart';
-import 'package:luminous/settings_screen.dart';
+import 'package:luminous/health/health_screen.dart';
+import 'package:luminous/notification/notification_screen.dart';
+import 'package:luminous/home/home_screen.dart';
+import 'package:luminous/settings/settings_screen.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class MainNavigationScreen extends StatefulWidget {

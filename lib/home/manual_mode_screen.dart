@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
-import 'widgets/light_setting_box.dart';
+import '../widgets/light_setting_box.dart';
 
 class ManualModeScreen extends StatefulWidget {
   const ManualModeScreen({super.key});

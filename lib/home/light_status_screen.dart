@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:luminous/auto_mode_screen.dart';
-import 'package:luminous/manual_mode_screen.dart';
+import 'package:luminous/home/auto_mode_screen.dart';
+import 'package:luminous/home/manual_mode_screen.dart';
 
 class LightStatusScreen extends StatefulWidget {
   const LightStatusScreen({super.key});
